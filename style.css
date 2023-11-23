@@ -1,0 +1,56 @@
+.sidebar {
+    background-color: lightgray;
+    padding: 20px;
+    width: 200px;
+    float: right;
+  }
+
+p {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+
+div {
+padding: 5px;
+margin: 5px;
+
+}
+
+#contenedorPadre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #tabla1{
+    border: 1px solid #1E679A;
+    width: 280px;
+ }
+ #cabtab1{
+    background-color: #1E679A;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 2 2 2 2px;
+ }
+ #cuerpotab1{
+    padding: 4 4 4 4px;
+    background-color: #ffffcc;
+ }
+
+ #tabla2{
+    border: 1px solid #165480;
+    width: 200px;
+ }
+ #cabtab2{
+    background-color: #5fa6d7;
+    font-weight: bold;
+    font-size: 8pt;
+    padding: 2 2 2 2px;
+ }
+ #cuerpotab2{
+    font-size: 8pt;
+    padding: 4 4 4 4px;
+    background-color: #ffffcc;
+ }
+ 
